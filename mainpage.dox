@@ -1,0 +1,13 @@
+/**
+\mainpage
+\htmlinclude manifest.html
+
+This package is a wrapper for the FZI icl core (Independent Core Libraries) it contains:
+\li icl_core
+This library provides basic functionalities like threads or data types that are system independent but also many other features. We mainly use the logging framework of it
+\li tinyxml
+This third party library is used by the icl_core to parse xml files
+
+Please see the subsection of the code API for more details.
+
+*/
