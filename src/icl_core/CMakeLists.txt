@@ -28,6 +28,7 @@ IF (BUILD_TESTS)
   ADD_SUBDIRECTORY (src/ts/icl_core)
   ADD_SUBDIRECTORY (src/ts/icl_core_config)
   ADD_SUBDIRECTORY (src/ts/icl_core_thread)
-  ADD_SUBDIRECTORY (src/ts/icl_core_crypt)
+# Disabled for now
+#  ADD_SUBDIRECTORY (src/ts/icl_core_crypt)
 ENDIF (BUILD_TESTS)
 
