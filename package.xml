@@ -46,5 +46,6 @@
   <export>
     <!-- Other tools can request additional information be placed here -->
     <rosdoc config="etc/rosdoc.yaml" />
+    <build_type>cmake</build_type>
   </export>
 </package>
