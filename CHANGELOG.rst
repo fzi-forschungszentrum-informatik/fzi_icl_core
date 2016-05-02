@@ -2,8 +2,8 @@
 Changelog for package fzi_icl_core
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.2 (2016-05-02)
+------------------
 * declared package as plain cmake package
 * Disabled crypt library test for now due to strange build farm fail.
 * Added Boost as build dependency
