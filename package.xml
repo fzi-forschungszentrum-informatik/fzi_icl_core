@@ -43,6 +43,9 @@
   <build_depend>boost</build_depend>
   <run_depend>boost</run_depend>
 
+  <!-- Since this is a plain cmake package we need catkin as a run dependency -->
+  <run_depend>catkin</run_depend>
+
   <!-- The export tag contains other, unspecified, tags -->
   <export>
     <!-- Other tools can request additional information be placed here -->
