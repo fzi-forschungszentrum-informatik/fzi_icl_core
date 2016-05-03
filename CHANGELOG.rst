@@ -2,6 +2,11 @@
 Changelog for package fzi_icl_core
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* export Boost as runtime dependency
+* Contributors: Felix Mauch
+
 1.0.2 (2016-05-02)
 ------------------
 * declared package as plain cmake package
