@@ -2,8 +2,8 @@
 Changelog for package fzi_icl_core
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.4 (2016-05-04)
+------------------
 * use cmake as buildtool_depend and install package.xml
 * Add catkin as run_depend
 * Contributors: Felix Mauch
