@@ -4,7 +4,6 @@ project(fzi_icl_core)
 SET(ICMAKER_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/icmaker")
 INCLUDE(${ICMAKER_DIRECTORY}/CMakeLists.txt)
 
-ADD_SUBDIRECTORY (src/tinyxml)
 ADD_SUBDIRECTORY (src/icl_core)
 
 # Install catkin package.xml

@@ -23,7 +23,7 @@
 
 #include <assert.h>
 #include <iostream>
-#include <tinyxml/tinyxml.h>
+#include <tinyxml.h>
 
 #include "icl_core/KeyValueDirectory.hpp"
 #include "icl_core_config/AttributeTree.h"
