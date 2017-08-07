@@ -41,7 +41,9 @@
   <!--   <test_depend>gtest</test_depend> -->
   <buildtool_depend>cmake</buildtool_depend>
   <build_depend>boost</build_depend>
+  <build_depend>tinyxml</build_depend>
   <run_depend>boost</run_depend>
+  <run_depend>tinyxml</run_depend>
 
   <!-- Since this is a plain cmake package we need catkin as a run dependency -->
   <run_depend>catkin</run_depend>
