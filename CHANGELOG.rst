@@ -2,8 +2,8 @@
 Changelog for package fzi_icl_core
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.6 (2017-08-07)
+------------------
 * added external tinyxml as dependency
 * Contributors: Felix Mauch
 
