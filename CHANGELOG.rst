@@ -2,8 +2,8 @@
 Changelog for package fzi_icl_core
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.5 (2017-08-07)
+------------------
 * Added a small README
 * removed own tinyxml
 * Contributors: Felix Mauch
