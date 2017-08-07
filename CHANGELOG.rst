@@ -2,6 +2,12 @@
 Changelog for package fzi_icl_core
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Added a small README
+* removed own tinyxml
+* Contributors: Felix Mauch
+
 1.0.4 (2016-05-04)
 ------------------
 * use cmake as buildtool_depend and install package.xml
